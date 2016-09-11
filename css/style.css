@@ -289,6 +289,9 @@ figure {
 .tech .row {
   margin-bottom: 30px;
 }
+.tech .col-sm-6 {
+  height: 100px;
+}
 .fh5co-feature .fh5co-icon {
   float: left;
   width: 10%;
