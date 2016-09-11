@@ -299,6 +299,10 @@ figure {
   color: #286090;
   font-size: 40px;
 }
+.fh5co-feature .fh5co-text {
+  float: right;
+  width: 82%;
+}
 
 @media screen and (max-width: 768px) {
   .fh5co-feature .fh5co-text {
